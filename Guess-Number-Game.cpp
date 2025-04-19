@@ -21,7 +21,6 @@ int main() {
 		scanf("%d%d", &L, &R);
 	}
 	int num = Rand(L, R);
-	cout << num << endl;
 	while (true) {
 		print("µÚ");
 		printf("%d", ++cnt);
